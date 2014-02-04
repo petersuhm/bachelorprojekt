@@ -1,4 +1,4 @@
-Formatet for disse filer f�ølger Github's standard for markdown:
+Formatet for disse filer føger Github's standard for markdown:
 https://help.github.com/articles/github-flavored-markdown
 
 # Uge 1
